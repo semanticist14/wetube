@@ -1,0 +1,11 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "cloning youtube with VanilaJs and Nodejs",
+  "main": "index.js",
+  "author": "Park Ji Won",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
